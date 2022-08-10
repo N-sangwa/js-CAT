@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(196, 186, 186);
+}
+form{
+margin-top: 150px;
+}
+
+form input{
+    width: 120px;
+    font-size: 15px;
+    padding: 3px;
+}
+
+button{
+    width: 100px;
+    background-color: rgb(63, 2, 20);
+    color: white;
+    border: none;
+    border-radius: 8%;
+    height: 35px;
+}
+
+#results{
+    height: 10px;
+    width: 300px;
+    margin-right: 1%;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+    text-align: center;
+}
